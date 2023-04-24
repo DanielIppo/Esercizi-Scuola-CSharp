@@ -8,17 +8,17 @@ using System.Threading;
 
 class Esercizio2{
 
-    public int[] array = new int[100];
+    public static int[] array = new int[100];
 
     static void fillArray1(){
-        for(int i = 0; i < esercizio2.array.Length/2; i++){
-            esercizio2.array[i] = new Random().Next(0, 100);
+        for(int i = 0; i < array.Length/2; i++){
+            array[i] = new Random().Next(0, 50);
         }
     }
 
     static void fillArray2(){
-        for(int i = esercizio2.array.Length/2; i < esercizio2.array.Length; i++){
-            esercizio2.array[i] = new Random().Next(0, 100);
+        for(int i = array.Length/2; i < array.Length; i++){
+            array[i] = new Random().Next(0, 50);
         }
     }
 
@@ -26,7 +26,7 @@ class Esercizio2{
 
         int sum = 0;
 
-        Thread t1 = new Thread(new ThreadStart(fillArray1()));
+        Thread t1 = new Thread(new ThreadStart(fillArray1));
         
         t1.Start();
 
@@ -34,8 +34,8 @@ class Esercizio2{
 
         t1.Join();
 
-        for(int i = 0; i < esercizio2.array.Length; i++){
-            sum += esercizio2.array[i];
+        for(int i = 0; i < array.Length; i++){
+            sum += array[i];
         }
 
         Console.WriteLine("La somma è: " + sum);

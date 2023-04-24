@@ -3,3 +3,13 @@
 /workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.AssemblyInfoInputs.cache
 /workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.AssemblyInfo.cs
 /workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.csproj.CoreCompileInputs.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/bin/Debug/net7.0/Esercizio 2
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/bin/Debug/net7.0/Esercizio 2.deps.json
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/bin/Debug/net7.0/Esercizio 2.runtimeconfig.json
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/bin/Debug/net7.0/Esercizio 2.dll
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/bin/Debug/net7.0/Esercizio 2.pdb
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.dll
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/refint/Esercizio 2.dll
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.pdb
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.genruntimeconfig.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/ref/Esercizio 2.dll
