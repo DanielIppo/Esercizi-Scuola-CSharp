@@ -1,0 +1,15 @@
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/bin/Debug/net7.0/Esercizio 3
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/bin/Debug/net7.0/Esercizio 3.deps.json
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/bin/Debug/net7.0/Esercizio 3.runtimeconfig.json
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/bin/Debug/net7.0/Esercizio 3.dll
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/bin/Debug/net7.0/Esercizio 3.pdb
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.csproj.AssemblyReference.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.AssemblyInfoInputs.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.AssemblyInfo.cs
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.csproj.CoreCompileInputs.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.dll
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/refint/Esercizio 3.dll
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.pdb
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/Esercizio 3.genruntimeconfig.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 3/obj/Debug/net7.0/ref/Esercizio 3.dll

@@ -1,0 +1,5 @@
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.csproj.AssemblyReference.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.AssemblyInfoInputs.cache
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.AssemblyInfo.cs
+/workspaces/Esercizi-Scuola-CSharp/Esercizio 2/obj/Debug/net7.0/Esercizio 2.csproj.CoreCompileInputs.cache
