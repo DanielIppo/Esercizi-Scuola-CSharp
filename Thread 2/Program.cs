@@ -1,7 +1,6 @@
 ﻿namespace Thread_2;
 class Program
 {
-
     static void searchWord(string word, string path){
         string[] lines = File.ReadAllLines("./" + path);
         int count = 0;
@@ -26,7 +25,5 @@ class Program
             Thread t = new Thread(() => searchWord(word, path));
             t.Start();
         }
-
-        
     }
 }
