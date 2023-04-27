@@ -1,14 +1,19 @@
 ﻿namespace Thread_2;
 class Program
 {
+
     static void searchWord(string word, string path){
         string[] lines = File.ReadAllLines("./" + path);
         int count = 0;
         foreach (string line in lines)
         {
-            if (line.Contains(word))
+            string[] splittedLine = line.Split(' ');
+            foreach(string w in splittedLine)
             {
-                count++;
+                if (w == word)
+                {
+                    count++;
+                }
             }
         }
         Console.WriteLine("La parola {0} è presente {1} volte nel file {2}", word, count, path);
@@ -25,5 +30,9 @@ class Program
             Thread t = new Thread(() => searchWord(word, path));
             t.Start();
         }
+
+        Thread.Sleep(1000);
+
+        Console.WriteLine("Il programma è terminato");
     }
 }
