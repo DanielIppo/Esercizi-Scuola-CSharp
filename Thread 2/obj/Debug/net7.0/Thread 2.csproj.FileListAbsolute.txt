@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\bin\Debug\net7.0\Thread 2.exe
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\bin\Debug\net7.0\Thread 2.deps.json
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\bin\Debug\net7.0\Thread 2.runtimeconfig.json
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\bin\Debug\net7.0\Thread 2.dll
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\bin\Debug\net7.0\Thread 2.pdb
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.dll
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\refint\Thread 2.dll
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.pdb
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\Thread 2.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Programmazione\CSharp\Formaggio\Thread 2\obj\Debug\net7.0\ref\Thread 2.dll
