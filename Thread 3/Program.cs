@@ -32,7 +32,6 @@ class Thread_3
     {
         try
         {
-            // Only get files that begin with the letter "c".
             string[] paths = Directory.GetFiles(args[0], "*.txt");
             string[] words = args.Skip(1).ToArray();
             countdown = new CountdownEvent(paths.Length);
@@ -64,7 +63,7 @@ class Thread_3
         }
         catch (Exception e)
         {
-            Console.WriteLine("The process failed: {0}", e.ToString());
+            Console.WriteLine("Il processo è fallito: {0}", e.ToString());
         }
     }
 }
