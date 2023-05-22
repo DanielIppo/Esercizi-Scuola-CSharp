@@ -7,3 +7,7 @@ Giorno 24/04/2023
 
 Giorno 26/04/2023
   - Esercizio Thread 2
+
+Giorno 22/05/2023
+  - Esercizio Thread 3
+  
