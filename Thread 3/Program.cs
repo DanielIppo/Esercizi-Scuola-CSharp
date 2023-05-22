@@ -9,29 +9,47 @@ class Thread_3
 
     static void searchWord(string[] words, string path)
     {
-        string[] lines = File.ReadAllLines("./" + path);
-        foreach (string line in lines)
-        {
-            string[] splittedLine = line.Split(' ');
-            foreach(string w in splittedLine)
+        try{
+            if(!File.Exists(path))
             {
-                for (int i = 0; i < words.Length; i++)
+                throw new Exception("Il file non esiste");
+            }
+            string[] lines = File.ReadAllLines("./" + path);
+            foreach (string line in lines)
+            {
+                string[] splittedLine = line.Split(' ');
+                foreach(string w in splittedLine)
                 {
-                    //Compara le stringe mettendole in minuscolo, così da non avere problemi con doppioni o parole non contate
-                    if (w.ToLower() == words[i].ToLower())
+                    for (int i = 0; i < words.Length; i++)
                     {
-                        count[i]++;
+                        //Compara le stringe mettendole in minuscolo, così da non avere problemi con doppioni o parole non contate
+                        if (w.ToLower() == words[i].ToLower())
+                        {
+                            count[i]++;
+                        }
                     }
                 }
             }
+            countdown.Signal();
+        }catch(Exception e)
+        {
+            Console.WriteLine("Il processo è fallito: {0}", e.ToString());
         }
-        countdown.Signal();
+       
     } 
 
     public static void Main(string[] args)
     {
         try
         {
+            if(args.Length < 2)
+            {
+                throw new Exception("Inserire almeno due parametri [directory] [parola1] [parola2] ...]");
+            }
+            if(!Directory.Exists(args[0]))
+            {
+                throw new Exception("La directory non esiste");
+            }
             string[] paths = Directory.GetFiles(args[0], "*.txt");
             string[] words = args.Skip(1).ToArray();
             countdown = new CountdownEvent(paths.Length);
