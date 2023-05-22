@@ -17,7 +17,8 @@ class Thread_3
             {
                 for (int i = 0; i < words.Length; i++)
                 {
-                    if (w == words[i])
+                    //Compara le stringe mettendole in minuscolo, così da non avere problemi con doppioni o parole non contate
+                    if (w.ToLower() == words[i].ToLower())
                     {
                         count[i]++;
                     }
@@ -47,9 +48,19 @@ class Thread_3
 
             for (int i = 0; i < words.Length; i++)
             {
-                Console.WriteLine("La parola {0} è presente {1} volte", words[i], count[i]);
+                int max = 0;
+                int maxIndex = 0;
+                for (int j = 0; j < words.Length; j++)
+                {
+                    if (count[j] > max)
+                    {
+                        max = count[j];
+                        maxIndex = j;
+                    }
+                }
+                Console.WriteLine("La parola {0} è presente {1} volte", words[maxIndex], count[maxIndex]);
+                count[maxIndex] = 0;
             }
-            Console.WriteLine("############### Il programma è terminato ###############");
         }
         catch (Exception e)
         {
