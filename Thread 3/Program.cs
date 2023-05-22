@@ -4,13 +4,21 @@ using System.Threading;
 
 class Thread_3
 {
+    static CountdownEvent countdown;
+
+    static void searchWord(){
+        
+    } 
+
     public static void Main(string[] args)
     {
         try
         {
             // Only get files that begin with the letter "c".
             string[] dirs = Directory.GetFiles(args[0], "*.txt");
-            Console.WriteLine("The number of files starting with c is {0}.", dirs.Length);
+            string[] words = args.Skip(1).ToArray();
+            countdown = new CountdownEvent(words.Length);
+
             foreach (string dir in dirs)
             {
                 
