@@ -1,0 +1,15 @@
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/bin/Debug/net7.0/Thread 3
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/bin/Debug/net7.0/Thread 3.deps.json
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/bin/Debug/net7.0/Thread 3.runtimeconfig.json
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/bin/Debug/net7.0/Thread 3.dll
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/bin/Debug/net7.0/Thread 3.pdb
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.csproj.AssemblyReference.cache
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.AssemblyInfoInputs.cache
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.AssemblyInfo.cs
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.csproj.CoreCompileInputs.cache
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.dll
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/refint/Thread 3.dll
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.pdb
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/Thread 3.genruntimeconfig.cache
+/workspaces/Esercizi-Scuola-CSharp/Thread 3/obj/Debug/net7.0/ref/Thread 3.dll

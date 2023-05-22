@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Esercizio_3
-build_property.ProjectDir = /workspaces/Esercizi-Scuola-CSharp/Esercizio 3 24_04_23/
+build_property.RootNamespace = Thread_3
+build_property.ProjectDir = /workspaces/Esercizi-Scuola-CSharp/Thread 3/
